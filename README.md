@@ -1,4 +1,4 @@
-Hi 👋, I'm Krishita
+<p align="center">Hi 👋, I'm Krishita</p>
 
 I'm currently a student of Computer Engineering at Kathmandu University, Dhulikhel, Nepal.
 
